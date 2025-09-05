@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# sudo wget -O /root/install.py3  https://github.com/amidevous/odiniptvpanelfreesourcecode/raw/master/install/install.py3 && && sudo python3 /root/install.py3
+# sudo wget -O /root/install.py3 https://raw.githubusercontent.com/powermx/odiniptvpanel/refs/heads/master/install/installpowermx.py3 && && sudo python3 /root/install.py3
 #
 import os
 # os.system('pip install requests >/dev/null')
